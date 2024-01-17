@@ -1,0 +1,4 @@
+﻿  41143230-2.c
+C:\Users\user\Desktop\Prim_minimum_spaning_tree\41143230-2\41143230-2.c(45): warning C4716: 'printKey': 必須傳回值
+C:\Users\user\Desktop\Prim_minimum_spaning_tree\41143230-2\41143230-2.c(38): warning C4716: 'printMST': 必須傳回值
+  41143230-2.vcxproj -> C:\Users\user\Desktop\Prim_minimum_spaning_tree\x64\Debug\41143230-2.exe

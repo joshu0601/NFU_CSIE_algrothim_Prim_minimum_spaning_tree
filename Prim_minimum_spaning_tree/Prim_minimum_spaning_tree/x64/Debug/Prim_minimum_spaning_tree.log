@@ -1,0 +1,4 @@
+﻿  mian.c
+C:\Users\user\Desktop\Prim_minimum_spaning_tree\Prim_minimum_spaning_tree\mian.c(38): warning C4716: 'printMST': 必須傳回值
+C:\Users\user\Desktop\Prim_minimum_spaning_tree\Prim_minimum_spaning_tree\mian.c(45): warning C4716: 'printKey': 必須傳回值
+  Prim_minimum_spaning_tree.vcxproj -> C:\Users\user\Desktop\Prim_minimum_spaning_tree\x64\Debug\Prim_minimum_spaning_tree.exe
