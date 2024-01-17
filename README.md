@@ -1,1 +1,2 @@
 # NFU_CSIE_algrothim_Prim_minimum_spaning_tree
+NFU CSIE 演算法 Prim_minimum_spaning_tree 練習
